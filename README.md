@@ -2,7 +2,7 @@ Hi, I'm Theja 👋
 
 Welcome to my GitHub profile!
 
-I'm passionate about software development and enjoy building projects while learning new technologies.
+I'm passionate about cybersecurity and enjoy building projects while learning new technologies.
 
 💻 Skills
 
@@ -16,7 +16,7 @@ I'm passionate about software development and enjoy building projects while lear
 🌱 Currently
 
 * Learning new technologies
-* Building personal and academic projects
+
 * Improving my programming skills
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me.
